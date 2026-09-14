@@ -2,7 +2,7 @@
 
 # 🔐 Microsoft Entra ID — Identity Governance & Access Reviews Lab
 ### Access Certification • Guest Lifecycle Control • Least Privilege Enforcement
-
+#AI Generated Image
 <img width="1536" height="1024" alt="3285c511-f0e0-43d4-9557-169b0f0aa54f" src="https://github.com/user-attachments/assets/f909bae8-2b7d-434d-89e0-06d3c3997fed" />
 
 **Author:** Felipe Restrepo  
