@@ -5,7 +5,7 @@
 #AI Generated Image
 <img width="1536" height="1024" alt="3285c511-f0e0-43d4-9557-169b0f0aa54f" src="https://github.com/user-attachments/assets/f909bae8-2b7d-434d-89e0-06d3c3997fed" />
 
-**Author:** Felipe Restrepo  
+**Author:** Alton Stewart
 **Category:** Identity & Access Management (IAM) / Identity Governance  
 **Platform:** Microsoft Entra ID (Azure AD)  
 **Core Features:** Groups, Users, Guest Access, Identity Governance, Access Reviews, Audit Logs
